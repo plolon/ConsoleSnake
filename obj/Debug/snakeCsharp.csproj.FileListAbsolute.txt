@@ -1,0 +1,7 @@
+C:\Users\dawid\source\repos\snakeCsharp\bin\Debug\snakeCsharp.exe.config
+C:\Users\dawid\source\repos\snakeCsharp\bin\Debug\snakeCsharp.exe
+C:\Users\dawid\source\repos\snakeCsharp\bin\Debug\snakeCsharp.pdb
+C:\Users\dawid\source\repos\snakeCsharp\obj\Debug\snakeCsharp.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\snakeCsharp\obj\Debug\snakeCsharp.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\snakeCsharp\obj\Debug\snakeCsharp.exe
+C:\Users\dawid\source\repos\snakeCsharp\obj\Debug\snakeCsharp.pdb
